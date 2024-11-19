@@ -1,0 +1,4 @@
+    CARGO  flights  total_price  total_weight
+0   Jumbo       50        76795         18709
+1  Medium      100        36312          9507
+2  Nimble      500       752588          7545
